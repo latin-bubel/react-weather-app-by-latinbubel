@@ -1,9 +1,9 @@
 .Weather {
-  font-family: arial, sans-serif;
-  border: 1px solid #dadde1;
-  padding: 16px;
-  border-radius: 4px;
-  color: rgb(135, 135, 135);
+  font-family: "Libre Franklin", sans-serif;
+  border: 1px solid #e6e3e3;
+  padding: 15px;
+  border-radius: 5px;
+  color: rgb(71, 67, 67);
 }
 
 .Weather form {
@@ -13,17 +13,18 @@
 .Weather ul {
   margin: 0;
   padding: 0;
+  opacity: 0.8;
 }
 
 .Weather li {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 100;
   line-height: 19px;
   list-style: none;
 }
 .Weather img {
-  height: 64px;
-  width: 64px;
+  height: 50px;
+  width: 50px;
   margin-right: 10px;
   display: inline-block;
 }
@@ -31,8 +32,8 @@
 .Weather .temperature {
   font-weight: bold;
   color: rgb(33, 33, 33);
-  font-size: 64px;
-  line-height: 64px;
+  font-size: 50px;
+  line-height: 50px;
   font-weight: 400;
 }
 
