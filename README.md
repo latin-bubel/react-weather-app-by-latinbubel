@@ -1,3 +1,8 @@
+# About
+This project uses SheCodes Weather API and SheCodes Weather Icons. 
+The goal of this project was to show current weather, weathe forecast using API. 
+Hosted on Netlify : https://boisterous-sprinkles-648a34.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
