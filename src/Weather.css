@@ -40,8 +40,8 @@
 .Weather .unit {
   color: rgb(33, 33, 33);
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 600;
   position: relative;
-  line-height: 1;
-  top: -34px;
+  line-height: 2;
+  top: -25px;
 }
