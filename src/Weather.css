@@ -45,3 +45,8 @@
   line-height: 2;
   top: -25px;
 }
+
+.btn-primary {
+  background-color: #8d77a7 !important;
+  border: #8d77a7 !important;
+}
