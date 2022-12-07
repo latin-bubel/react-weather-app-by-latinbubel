@@ -1,6 +1,6 @@
 # About
 This project uses SheCodes Weather API and SheCodes Weather Icons. 
-The goal of this project was to show current weather, weathe forecast using API. 
+The goal of this project was to show current weather, search for city, show weather forecast using SheCodes API WITH GPS COORDINATES. 
 Hosted on Netlify : https://boisterous-sprinkles-648a34.netlify.app/
 
 # Getting Started with Create React App
